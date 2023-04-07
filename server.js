@@ -1,4 +1,4 @@
-//pulling in all of the npm and built-in methods needed for the project
+//pulling in all of the npm and built ins
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
